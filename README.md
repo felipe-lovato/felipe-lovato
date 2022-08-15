@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Felipe Lovato 👋
 
 
-- 🔭 Estou aprendendo a programar 
-- 🌱 Estudando Python
+- 🔭 Desenvolvedor Junior
+- 🌱 Estudando Python, html, css, mysql, postgres
 - 💬 Contate-me por email: felipe.lovato95@gmail.com
 - 😄 Pronouns: ele/dele
 
